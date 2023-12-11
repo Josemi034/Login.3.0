@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="inicio_de_seccion.Administrador">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="LightGray">
+            <Label Text="¡Bienvenido! Administrador" 
+    FontAttributes="Bold" 
+    FontSize="36"
+    TextColor="Black"
+   VerticalTextAlignment="Center" 
+    HorizontalTextAlignment="Center" />
+
+            <StackLayout BackgroundColor="LightGray">
+                <Image Source="sup" Aspect="Fill"/>
+            </StackLayout>
+            <Button Text="Administrar Usuarios" TextColor="Black"
+             HorizontalOptions="Center"
+             BackgroundColor="GreenYellow"
+             WidthRequest="250"
+             HeightRequest="50"
+             BorderWidth="2"
+             BorderColor="Red"
+             CornerRadius="25"
+            />
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

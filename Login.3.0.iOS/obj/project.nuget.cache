@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J3yGVdUHdTG31/RWWM8JehjWOlpjJQ/zcAMkxfp5s/mDkvFUKMsvE1SL88oZYPOGv71WOspXZfWLKckrILvS4g==",
+  "success": true,
+  "projectFilePath": "D:\\Proyecto01\\Login.3.0\\Login.3.0\\Login.3.0.iOS\\Login.3.0.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josem\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

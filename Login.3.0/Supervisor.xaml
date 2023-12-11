@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="inicio_de_seccion.Supervisor">
+
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="LightGray">
+            <Label Text="¡Bienvenido! Supervisor" 
+           FontAttributes="Bold" 
+           FontSize="36"
+           TextColor="Black"
+           VerticalTextAlignment="Center" 
+           HorizontalTextAlignment="Center" />
+
+            <StackLayout BackgroundColor="LightGray">
+                <Image Source="https://cdn.icon-icons.com/icons2/966/PNG/128/Users_icon-icons.com_74706.png" Aspect="Fill"/>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
